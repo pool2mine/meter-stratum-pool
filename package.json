@@ -11,9 +11,9 @@
     "meter",
     "scrypt"
   ],
-  "homepage": "https://github.com/dfinlab/meter-stratum-pool",
+  "homepage": "https://github.com/pool2mine/meter-stratum-pool",
   "bugs": {
-    "url": "https://github.com/dfinlab/meter-stratum-pool/issues"
+    "url": "https://github.com/pool2mine/meter-stratum-pool/issues"
   },
   "license": "GPL-2.0",
   "author": "Matthew Little",
@@ -24,7 +24,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dfinlab/meter-stratum-pool.git"
+    "url": "https://github.com/pool2mine/meter-stratum-pool.git"
   },
   "dependencies": {
     "async": "^3.2.4",
